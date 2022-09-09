@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "0.1.0",
-  "homepage": "https://mranthonys.github.io/mranthonys.github.io",
+  "homepage": "https://mranthonys.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
